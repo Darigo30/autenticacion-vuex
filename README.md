@@ -1,5 +1,5 @@
 # autenticacion
-
+Para probar autenticación coloca darigomez30@gmail.com y pass 123456 
 > A Vue.js project
 
 ## Build Setup
